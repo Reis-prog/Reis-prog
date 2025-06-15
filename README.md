@@ -20,23 +20,22 @@
 ---
 ### 👨‍💻 Studying in this moment:
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)
 
 ---
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 
-<div align="center">  
+<div align="left">  
   <a href="https://www.instagram.com/carlos.sreis_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="https://www.linkedin.com/in/carlos-reis-0392a0361/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
 ---
 <div align="center">
   <br>
