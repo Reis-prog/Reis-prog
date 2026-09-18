@@ -17,25 +17,33 @@
 <div align="center">
 
 ### Front-end
-<img src="https://cdn.simpleicons.org/html5" height="32" alt="HTML5" />&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" height="32" alt="JavaScript" />&nbsp;
-<img src="https://cdn.simpleicons.org/git" height="32" alt="Git" />&nbsp;
-<img src="https://cdn.simpleicons.org/github/000000/ffffff" height="32" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" />&nbsp;
+<img width="12" />
+<img src="https://cdn.simpleicons.org/git" height="40" alt="Git" />&nbsp;
+<img width="12" />
+<img src="https://cdn.simpleicons.org/github/000000/ffffff" height="40" alt="GitHub" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img width="12" />
 ### Back-end
-<img src="https://cdn.simpleicons.org/python" height="32" alt="Python" />&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="40" alt="Python" />&nbsp;
 
 ### IA 
 
-<img src="https://cdn.simpleicons.org/claude" height="32" alt="Claude" />&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" height="32" alt="Gemini" />&nbsp;
-<img src="https://cdn.simpleicons.org/githubcopilot/000000/ffffff" height="32" alt="GitHub Copilot" />
+<img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude" />&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Gemini" />&nbsp;
+<img src="https://cdn.simpleicons.org/githubcopilot/000000/ffffff" height="40" alt="GitHub Copilot" />
 
 <br/><br/>
 
 <div align="center">
 <!-- Contato — [EDITAR] links -->
 <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-5DADE2?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/carlos-alexandre-0392a0361"><img src="https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/-GitHub-5DADE2?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
 
