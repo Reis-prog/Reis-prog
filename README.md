@@ -29,6 +29,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+<img width="12" />
 ### Back-end
 <img src="https://cdn.simpleicons.org/python" height="40" alt="Python" />&nbsp;
 
@@ -38,6 +40,11 @@
 <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Gemini" />&nbsp;
 <img src="https://cdn.simpleicons.org/githubcopilot/000000/ffffff" height="40" alt="GitHub Copilot" />
 
+### Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img width="12" />
 <br/><br/>
 
 <div align="center">
