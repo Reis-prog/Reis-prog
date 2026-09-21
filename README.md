@@ -19,8 +19,6 @@
 ### Front-end
 <img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" />&nbsp;
 <img width="12" />
-<img src="https://cdn.simpleicons.org/git" height="40" alt="Git" />&nbsp;
-<img width="12" />
 <img src="https://cdn.simpleicons.org/github/000000/ffffff" height="40" alt="GitHub" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -45,13 +43,20 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
 <br/><br/>
 
+
+<h3 align="center">Tools & Others</h3>
 <div align="center">
-<!-- Contato — [EDITAR] links -->
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-5DADE2?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/carlos-alexandre-0392a0361"><img src="https://img.shields.io/badge/-LinkedIn-5DADE2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/-GitHub-5DADE2?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:BEE3F8&height=100&section=footer" width="100%"/>
