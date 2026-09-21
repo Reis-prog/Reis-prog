@@ -58,5 +58,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
+<h3 align="center">Connect</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/henriquecostadsantos/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:BEE3F8&height=100&section=footer" width="100%"/>
+
