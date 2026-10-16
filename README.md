@@ -68,3 +68,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:BEE3F8&height=100&section=footer" width="100%"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reis-prog/Reis-prog/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reis-prog/Reis-prog/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Reis-prog/Reis-prog/output/snake.svg">
+</picture>
+
